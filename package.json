@@ -1,0 +1,11 @@
+{
+  "name": "ioasys-camp2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiagosgdev/ioasys-camp2022.git",
+  "author": "Thiago Gonçalves <thiagosgdev@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "calculator": "node calculator.js"
+  }
+}
